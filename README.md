@@ -21,7 +21,7 @@
 | ------------------ | ------------ | ----------------------------- |
 | name               | string       | null: false                   |
 | diner-image        | string       | null: false                   |
-| detail             | text         | null: false                   |
+| content            | text         | null: false                   |
 | user               | references   | null: false foreign_key :true |
 
 
